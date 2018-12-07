@@ -5,10 +5,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
 
-/**
- *
- * @author Shane - shanelee.co.uk
- */
+/***********@author Shane - shanelee.co.uk******/
 
 public class WebScraper {
   public static void main(String[] args) {
